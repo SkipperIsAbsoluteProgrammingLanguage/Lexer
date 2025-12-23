@@ -23,6 +23,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\Parser\Parser.csproj" />
     <ProjectReference Include="..\src\src.csproj" />
   </ItemGroup>
 
